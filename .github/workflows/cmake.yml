@@ -27,8 +27,8 @@ jobs:
           ./Configure linux-x86_64 no-shared
           make
           cd ..
-          git clone https://github.com/armornetworkdev/lmdb.git
-          git clone https://github.com/armornetworkdev/armor.git
+          git clone https://github.com/Armor-Network/lmdb.git
+          git clone https://github.com/Armor-Network/armor.git
           cd armor
           mkdir -p build
           cd build
