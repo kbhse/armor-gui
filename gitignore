@@ -1,0 +1,18 @@
+build/
+bin/
+Windows Installer/Debug/
+Windows Installer/Release/
+Windows Installer/.vs/
+
+Windows Installer/*.msi
+Windows Installer/*.wixobj
+Windows Installer/*.wixpdb
+
+build-armor-gui*
+
+*~
+CMakeLists.txt.user*
+*.pro.user*
+
+# Mac specific
+.DS_Store
