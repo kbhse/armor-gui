@@ -22,9 +22,9 @@ namespace WalletGUI {
 
 namespace {
 
-const char MAIN_TX_HASH_URL[] = "https://explorer.armornetwork.org/tx?hash=%1";
-const char MAIN_BLOCK_HASH_URL[] = "https://explorer.armornetwork.org/block?hash=%1";
-const char MAIN_BLOCK_HEIGHT_URL[] = "https://explorer.armornetwork.org/block?height=%1";
+const char MAIN_TX_HASH_URL[] = "http://radioactive.es/AMX-explorer/index.php?raw_tx=%1";
+const char MAIN_BLOCK_HASH_URL[] = "http://radioactive.es/AMX-explorer/index.php?raw_block=%1";
+const char MAIN_BLOCK_HEIGHT_URL[] = "http://radioactive.es/AMX-explorer/index.php?raw_height=%1";
 const char STAGE_TX_HASH_URL[] = "https://stage.explorer.armornetwork.org/tx?hash=%1";
 const char STAGE_BLOCK_HASH_URL[] = "https://stage.explorer.armornetwork.org/block?hash=%1";
 const char STAGE_BLOCK_HEIGHT_URL[] = "https://stage.explorer.armornetwork.org/block?height=%1";
