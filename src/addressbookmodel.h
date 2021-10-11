@@ -1,4 +1,4 @@
-// Copyright (c) 2015-2018, The Armor developers.
+// Copyright (c) 2015-2018, The Bytecoin developers.
 // Licensed under the GNU Lesser General Public License. See LICENSE for details.
 
 #pragma once
@@ -19,7 +19,7 @@ class AddressBookModel : public QAbstractItemModel
 
 public:
   enum Columns {
-    COLUMN_LABEL = 0, COLUMN_ADDRESS, /*COLUMN_DONATION,*/ COLUMN_ACTION
+    COLUMN_LABEL = 0, COLUMN_ADDRESS, /*COLUMN_DONATION,*/ /*COLUMN_ACTION*/
   };
 
   enum Roles {
