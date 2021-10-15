@@ -50,7 +50,7 @@ constexpr char LOCAL_HOST[] = "127.0.0.1";
 constexpr char DEFAULT_WORK_DIR[] = ".armor";
 #endif
 
-const constexpr char* DEFAULT_MINING_POOLS[] = { "pool.armornetwork.org:4000" };
+const constexpr char* DEFAULT_MINING_POOLS[] = { "radioactive.es:4001" };
 
 static
 bool readJsonFile(QIODevice& device, QSettings::SettingsMap& map)
