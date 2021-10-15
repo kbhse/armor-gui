@@ -42,10 +42,10 @@ namespace WalletGUI {
 namespace {
 
 //const int MAX_RECENT_WALLET_COUNT = 10;
-//const char COMMUNITY_FORUM_URL[] = "https://armortalk.org";
-const char COMMUNITY_FORUM_URL[] = "https://armornetwork.org";
-const char REPORT_ISSUE_URL[] = "https://armornetwork.org";
-const char DOWNLOAD_URL[] = "https://github.com/noritte/armor-gui/releases";
+
+const char COMMUNITY_FORUM_URL[] = "https://armor-network.github.io/armor-website/";
+const char REPORT_ISSUE_URL[] = "https://github.com/Armor-Network/armor-gui/issues";
+const char DOWNLOAD_URL[] = "https://github.com/Armor-Network/armor-gui/releases";
 
 const char BUTTON_STYLE_SHEET[] =
         "QPushButton {"
