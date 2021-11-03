@@ -79,6 +79,10 @@ QT includes a windows deployment tool `windeployqt` which automates the process 
 	
 	setx /M PATH "%PATH%;c:\Qt\5.9.9\msvc2017_64\bin"
 
+To check the PATH:
+
+	echo %PATH%
+
 Close and restart the command prompt, then:
 
 	windeployqt c:\armor\armor-gui\bin
