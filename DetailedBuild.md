@@ -70,6 +70,7 @@ You should now have the following assets in the `armor\armor-gui\bin` folder:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://user-images.githubusercontent.com/55367064/140000379-15c0488a-74da-4cb4-b9b6-d88c6b5d1d17.png)
 
+(note: `armord.exe`, `armord.pdb`, `walletd.exe` and `walletd.pdb` are copied from the assets created by the armor core build by the armor-gui project file. The *.pdb files are not required to run the armor-gui app)
 
 ## Deployment
 
@@ -94,6 +95,3 @@ The `\armor\armor-gui\bin` directory should now contain the following assets:
 Create a shortcut to `armor-gui.exe` and run it.
 	
 If you get error messages that `MSVCP140.dll` and `VCRUNTIME140.dll` were not found, install [Microsoft Visual C++ Redistributable for Visual Studio 2017](https://go.microsoft.com/fwlink/?LinkId=746572)
-
-	
-	
