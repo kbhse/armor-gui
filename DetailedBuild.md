@@ -60,11 +60,11 @@ In the left sidebar click `Projects` and check the details:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://user-images.githubusercontent.com/55367064/139998617-2610ca3a-506b-437d-9379-b172fa987fb4.png)
 
-On the bottom toolbar select `4 Compile Output`
+On the bottom toolbar select `Compile Output`
 
 In the left sidebar click ![image](https://user-images.githubusercontent.com/55367064/139999222-5ce64601-3a58-40df-8269-273acd60ed7b.png) to start building armor-gui.
 
-Check progress in the `4 Compile Output` window. The build should run to completion without errors.
+Check progress in the `Compile Output` window. The build should run to completion without errors.
 
 You should now have the following assets in the `armor\armor-gui\bin` folder:
 
