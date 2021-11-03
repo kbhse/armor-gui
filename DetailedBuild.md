@@ -52,17 +52,17 @@ then select the `Desktop Qt 5.9.9 MSVC 2017 64bit` kit and click `Configure Proj
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://user-images.githubusercontent.com/55367064/139990290-6ebf4cb4-fc9f-44ff-8811-b1569699e8f7.png)
 
-In the left sidebar click: ![image](https://user-images.githubusercontent.com/55367064/139995434-a9a6236a-f704-47bb-90e4-720efc101a76.png)
+In the left sidebar select: ![image](https://user-images.githubusercontent.com/55367064/139995434-a9a6236a-f704-47bb-90e4-720efc101a76.png)
 
 and change it to `Release`: ![image](https://user-images.githubusercontent.com/55367064/139996908-937a5cca-3831-4bd4-83f7-fdec6bcbe2c2.png)
 
-In the left sidebar click `Projects` and check the details:
+In the left sidebar select `Projects` and check the details:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://user-images.githubusercontent.com/55367064/139998617-2610ca3a-506b-437d-9379-b172fa987fb4.png)
 
 On the bottom toolbar select `Compile Output`
 
-In the left sidebar click ![image](https://user-images.githubusercontent.com/55367064/139999222-5ce64601-3a58-40df-8269-273acd60ed7b.png) to start building armor-gui.
+In the left sidebar select ![image](https://user-images.githubusercontent.com/55367064/139999222-5ce64601-3a58-40df-8269-273acd60ed7b.png) to start building armor-gui.
 
 Check progress in the `Compile Output` window. The build should run to completion without errors.
 
